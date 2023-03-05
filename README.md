@@ -1,6 +1,6 @@
-# datascience
 <h1>Estudos Data Science</h1>
 
+> Material para estudo, exemplos de código e dicas.
 ...
 Material PUC-RS
 ...
