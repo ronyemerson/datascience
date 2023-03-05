@@ -1,4 +1,4 @@
-#Estudos para Data Science
+<h1>Estudos para Data Science</h1>
 
 > Material para estudo, exemplos de código e dicas.
 > 
