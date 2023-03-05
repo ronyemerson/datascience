@@ -10,7 +10,7 @@
 Material PUC-RS 
 ...
 
-> http://
+> http://..
 
 ...
 Material kaggle
